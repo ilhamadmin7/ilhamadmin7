@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ilhamadmin7
-- 👀 I’m interested in Technology
-- 🌱 I’m currently learning Networking and Web Programming
+- Hi, I’m @ilhamadm7
+- I’m interested in Technology
+- I’m currently learning Networking and Web Programming
 
 <!---
 ilhamadmin7/ilhamadmin7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile
